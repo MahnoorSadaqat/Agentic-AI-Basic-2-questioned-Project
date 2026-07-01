@@ -1,0 +1,11 @@
+{
+  "name": "day-one-agent",
+  "version": "1.0.0",
+  "description": "My first Agentic AI project - ReAct loop from scratch",
+  "type": "module",
+  "main": "agent.js",
+  "dependencies": {
+    "@google/genai": "latest",
+    "picocolors": "^1.1.1"
+  }
+}
